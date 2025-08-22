@@ -1,0 +1,85 @@
+Section,Category,Field Name
+Consolidated Balance Sheet,Assets,Current Assets
+Consolidated Balance Sheet,Assets,Cash and Cash Equivalents
+Consolidated Balance Sheet,Assets,Accounts Receivable Net
+Consolidated Balance Sheet,Assets,Inventories
+Consolidated Balance Sheet,Assets,Other Current Assets
+Consolidated Balance Sheet,Assets,Advances to Suppliers
+Consolidated Balance Sheet,Assets,Total Current Assets
+Consolidated Balance Sheet,Assets,Plant Property and Equipment Net
+Consolidated Balance Sheet,Assets,Construction In Progress
+Consolidated Balance Sheet,Assets,Other Assets - Non Current
+Consolidated Balance Sheet,Assets,Intangible Assets Net
+Consolidated Balance Sheet,Assets,Goodwill
+Consolidated Balance Sheet,Assets,Total Assets
+Consolidated Balance Sheet,Liabilities and Stockholders' Equity,Current Liabilities
+Consolidated Balance Sheet,Liabilities and Stockholders' Equity,Accounts Payable
+Consolidated Balance Sheet,Liabilities and Stockholders' Equity,Unearned Revenue
+Consolidated Balance Sheet,Liabilities and Stockholders' Equity,Accrued Expenses and Other Payables
+Consolidated Balance Sheet,Liabilities and Stockholders' Equity,Amount Due to Related Parties
+Consolidated Balance Sheet,Liabilities and Stockholders' Equity,Taxes Payable
+Consolidated Balance Sheet,Liabilities and Stockholders' Equity,Short Term Loans
+Consolidated Balance Sheet,Liabilities and Stockholders' Equity,Total Current Liabilities
+Consolidated Balance Sheet,Liabilities and Stockholders' Equity,Commitment and Contingencies
+Consolidated Balance Sheet,Liabilities and Stockholders' Equity,Stockholders' Equity
+Consolidated Balance Sheet,Liabilities and Stockholders' Equity,Preferred Stock
+Consolidated Balance Sheet,Liabilities and Stockholders' Equity,Common Stock
+Consolidated Balance Sheet,Liabilities and Stockholders' Equity,Additional Paid-in Capital
+Consolidated Balance Sheet,Liabilities and Stockholders' Equity,Statutory Reserve
+Consolidated Balance Sheet,Liabilities and Stockholders' Equity,Retained Earnings
+Consolidated Balance Sheet,Liabilities and Stockholders' Equity,Accumulated Other Comprehensive Income
+Consolidated Balance Sheet,Liabilities and Stockholders' Equity,Total Stockholders' Equity
+Consolidated Balance Sheet,Liabilities and Stockholders' Equity,Total Liabilities and Stockholders' Equity
+Consolidated Income Statement,Revenue,Sales
+Consolidated Income Statement,Revenue,Net Sales
+Consolidated Income Statement,Expenses,Cost of Goods Sold
+Consolidated Income Statement,Expenses,Gross Profit
+Consolidated Income Statement,Expenses,Operating Expenses
+Consolidated Income Statement,Expenses,Selling Expenses
+Consolidated Income Statement,Expenses,General and Administrative Expenses
+Consolidated Income Statement,Expenses,Total Operating Expenses
+Consolidated Income Statement,Operating Income,Income from Operations
+Consolidated Income Statement,Other Income,Other Income (Expense)
+Consolidated Income Statement,Other Income,Interest Income
+Consolidated Income Statement,Other Income,Interest Expense Net
+Consolidated Income Statement,Other Income,Total Other Income (Expense)
+Consolidated Income Statement,Net Income,Income Before Income Taxes
+Consolidated Income Statement,Net Income,Provision for Income Taxes
+Consolidated Income Statement,Net Income,Net Income
+Consolidated Income Statement,Other Comprehensive Income,Foreign Currency Translation Gain
+Consolidated Income Statement,Comprehensive Income,Comprehensive Income
+Consolidated Cash Flow Statement,Operating Activities,Net Income
+Consolidated Cash Flow Statement,Operating Activities,Adjustments to Reconcile Net Income to Net Cash Provided by Operating Activities
+Consolidated Cash Flow Statement,Operating Activities,Issuance of Common Stock and Stock Options for Compensation
+Consolidated Cash Flow Statement,Operating Activities,Depreciation
+Consolidated Cash Flow Statement,Operating Activities,Amortization
+Consolidated Cash Flow Statement,Operating Activities,Changes in Operating Assets Net of Effects from Acquisitions
+Consolidated Cash Flow Statement,Operating Activities,Accounts Receivable
+Consolidated Cash Flow Statement,Operating Activities,Other Current Assets
+Consolidated Cash Flow Statement,Operating Activities,Inventories
+Consolidated Cash Flow Statement,Operating Activities,Advances to Suppliers
+Consolidated Cash Flow Statement,Operating Activities,Other Assets
+Consolidated Cash Flow Statement,Operating Activities,Change in Operating Liabilities Net of Effects from Acquisitions
+Consolidated Cash Flow Statement,Operating Activities,Accounts Payable
+Consolidated Cash Flow Statement,Operating Activities,Unearned Revenue
+Consolidated Cash Flow Statement,Operating Activities,Taxes Payable
+Consolidated Cash Flow Statement,Operating Activities,Accrued Expenses and Other Payables
+Consolidated Cash Flow Statement,Operating Activities,Net Cash Provided by Operating Activities
+Consolidated Cash Flow Statement,Investing Activities,Purchase of Plant Property and Equipment
+Consolidated Cash Flow Statement,Investing Activities,Purchase of Intangible Assets
+Consolidated Cash Flow Statement,Investing Activities,Acquisition Net of Cash Acquired
+Consolidated Cash Flow Statement,Investing Activities,Increase in Construction in Progress
+Consolidated Cash Flow Statement,Investing Activities,Net Cash Used in Investing Activities
+Consolidated Cash Flow Statement,Financing Activities,Repayment of Loan
+Consolidated Cash Flow Statement,Financing Activities,Proceeds from Loans
+Consolidated Cash Flow Statement,Financing Activities,Proceeds from Issuance of Shares
+Consolidated Cash Flow Statement,Financing Activities,Advance from Related Party
+Consolidated Cash Flow Statement,Financing Activities,Restricted Cash
+Consolidated Cash Flow Statement,Financing Activities,Net Cash Provided by Financing Activities
+Consolidated Cash Flow Statement,Effect of Exchange Rate,Effect of Exchange Rate Change on Cash and Cash Equivalents
+Consolidated Cash Flow Statement,Net Increase in Cash,Net Increase in Cash and Cash Equivalents
+Consolidated Cash Flow Statement,Cash and Cash Equivalents Beginning Balance,Cash and Cash Equivalents Beginning Balance
+Consolidated Cash Flow Statement,Cash and Cash Equivalents Ending Balance,Cash and Cash Equivalents Ending Balance
+Consolidated Cash Flow Statement,Supplementary Disclosures,Interest Expense Paid
+Consolidated Cash Flow Statement,Supplementary Disclosures,Income Taxes Paid
+Consolidated Cash Flow Statement,Supplementary Disclosures,Issuance of Shares for Acquisition
