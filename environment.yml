@@ -1,0 +1,13 @@
+
+## `secfsd-e2e/environment.yml`
+
+name: secfsd
+channels: [conda-forge]
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - secfsdstools>=2.4.2
+      - pandas>=2.2
+      - pyarrow>=16
+      - notebook
