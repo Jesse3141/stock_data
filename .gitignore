@@ -4,3 +4,11 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .venv/
+
+# SEC data download cache (empty directory for cloud dev)
+small_data/dld/
+
+# Build artifacts
+*.egg-info/
+build/
+dist/
