@@ -1,0 +1,31 @@
+# Core data processing and SEC financial statement tools
+secfsdstools>=2.4.2
+pandas>=2.2
+pyarrow>=16
+
+# Data processing and analysis
+numpy
+polars
+swifter
+
+# Visualization
+matplotlib
+
+# Jupyter notebook support
+jupyterlab
+ipywidgets
+
+# Progress bars
+tqdm
+
+# Distributed computing
+dask[distributed]
+
+# Edgar financial data
+edgartools
+
+# HTTP requests
+requests
+
+# AI/ML capabilities
+openai
